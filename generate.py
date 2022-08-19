@@ -30,4 +30,4 @@ if __name__ == '__main__':
 
     dst_im = my_nearest_resize(big_img, small_img)
     dst_im.save(sys.argv[3])            # 嵌入小图像素的大图
-
+#测试#
